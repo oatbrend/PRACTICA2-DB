@@ -1,4 +1,4 @@
-# Práctica 1 Base de Datos 
+# Práctica 2 Base de Datos 
 ## Colaboradores
 * **Nombre:** Brenda Roa Venegas 
 * **Boleta:** 2025630789
@@ -10,5 +10,7 @@
 * **Grupo:** 3BV1
 * **Carrera:** Ingenieria en Inteligencia Artificial 
 ---
-## ÍNDICE “Practica 1 Modelo Entidad Relacion”
-# PRACTICA2-DB
+## ÍNDICE “Practica 2 Modelo Entidad Relacion Extendido”
+
+### URL del fork:
+https://github.com/OmarFloresIIA/PublicMunicipalWorks_DWH

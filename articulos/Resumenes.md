@@ -1,4 +1,5 @@
 # [Artículo 1. Datos Sísmicos](https://azcatl.azc.uam.mx/index.php/azcatl/article/view/75)
+*Villa Vargas, J. M., Hurtado Avilés, G., &amp; Climent Hernández, J. A. (2026). Cuando México tiembla: la historia contada por los datos. Azcatl. Revista de divulgación en ciencias, ingeniería e innovación, 6, 28–33\. https://doi.org/10.24275/AZC2026E1004*
 ## El Problema
 El **SSN** registra cada sismo en México, pero sus datos técnicos resultan poco accesibles para el público. El país, ubicado en el **Cinturón de Fuego del Pacífico** y rodeado por cinco placas tectónicas, vive bajo constante amenaza sísmica. La falta de herramientas visuales dificulta que los ciudadanos comprendan el riesgo, de ahí la necesidad de un sistema que traduzca tablas en mapas interactivos y reportes claros.
 
@@ -33,6 +34,7 @@ La instalación técnica puede ser compleja, por lo que se empaquetó en un **co
 
 
 # [Artículo 2. Sistema Dimensional Geoespacial para la fiscalización de Obras Públicas Municipales](https://github.com/gabrielhuav/PublicMunicipalWorks_DWH/blob/TestDefinitivo/paper/Paper_37_1.pdf)
+*González Casiano, U., Maldonado Mejía, M. T., &amp; Hurtado Avilés, G. (2026). A dimensional data warehouse for geospatial monitoring of municipal public works, with an evolution path toward a lakehouse architecture. Escuela Superior de Cómputo (ESCOM), Instituto Politécnico Nacional.*
 ## El Problema
 La infraestructura pública en los municipios rurales y medianos sufre por la **fragmentación de la información**: contratos, presupuestos, supervisores, estimaciones, fotos y actas se guardan en hojas de cálculo o carpetas separadas. Lo que provoca:
 
@@ -85,6 +87,7 @@ El prototipo presenta estos retos:
 **Evolución futura**: migrar hacia un **Lakehouse** con formatos abiertos (Iceberg, Parquet) y motores ligeros (DuckDB, Trino). Además, integrar visión por computadora para validar fotos, adoptar el estándar **OC4IDS** y publicar el esquema bajo ontologías OWL.  
 
 # [Artículo 3. Almacen de Datos para la gestión del Agua en la CDMX](https://drive.google.com/drive/folders/1RLz5NjNSt2c0lkzcqEa5C5PJ8cML2wi7)
+*Velázquez Arrieta, E. U., Pulido Morales, O. F., García López, E., Hernández Martínez, C. A., &amp; Hurtado Avilés, G. (2026). Territorial information retrieval from heterogeneous open data through the construction of a data warehouse for water management in Mexico City. Escuela Superior de Cómputo, Instituto Politécnico Nacional.*
 ## El Problema
 La **CDMX** enfrenta una crisis hídrica marcada por la sobreexplotación de acuíferos, fugas y crecimiento poblacional. Aunque el **SACMEX** publica datos abiertos de consumo, estos presentan barreras:
 

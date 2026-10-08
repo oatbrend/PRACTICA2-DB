@@ -9,8 +9,32 @@
 
 * **Grupo:** 3BV1
 * **Carrera:** Ingenieria en Inteligencia Artificial 
----
-## ÍNDICE “Practica 2 Modelo Entidad Relacion Extendido”
 
-### URL del fork:
-https://github.com/OmarFloresIIA/PublicMunicipalWorks_DWH
+## Proyecto Asignado
+### **Obra pública municipal.**
+Almacén dimensional para el monitoreo geoespacial de obra pública.
+#### URL del fork: https://github.com/OmarFloresIIA/PublicMunicipalWorks_DWH
+
+![Imágen de confirmación](./proyecto-asignado/evidencias/segundoComando.png)
+---
+## Issues
++ **Roa Venegas Brenda**
+
+    1.- []()
+
+    2.- []()
+
+    3.- []()
+
++ **Flores Olivares Omar**
+
+    1.- []()
+
+    2.- []()
+
+    3.- []()
+    
+## Uso de IA's Generativas
++ **NotebookLM** para estudiar a fondo los artículos
++ **Claude** para confirmar las cardinalidades de los modelos del proyecto propio.
++ **Gemini** como guía para el levantamiento del proyecto asignado y para ayudarnos a comprender el esquema DDL del proyecto asignado.

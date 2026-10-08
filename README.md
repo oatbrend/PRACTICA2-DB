@@ -28,11 +28,11 @@ Almacén dimensional para el monitoreo geoespacial de obra pública.
 
 + **Flores Olivares Omar**
 
-    1.- []()
+    1.- [Agrupar por tema las propuestas de la gente y avisar cuando se repiten](https://github.com/oatbrend/PRACTICA2-DB/issues/11)
 
-    2.- []()
+    2.- [Guardar el historial de cada obra: estados, presupuesto y constructora](https://github.com/oatbrend/PRACTICA2-DB/issues/12)
 
-    3.- []()
+    3.- [Proteger los datos personales y llevar un registro de quién entra al sistema](https://github.com/oatbrend/PRACTICA2-DB/issues/13)
     
 ## Uso de IA's Generativas
 + **NotebookLM** para estudiar a fondo los artículos

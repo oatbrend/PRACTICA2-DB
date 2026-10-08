@@ -20,11 +20,11 @@ Almacén dimensional para el monitoreo geoespacial de obra pública.
 ## Issues
 + **Roa Venegas Brenda**
 
-    1.- []()
+    1.- [Avisar qué obras podrían tener problemas de costo o de avance](https://github.com/oatbrend/PRACTICA2-DB/issues/14)
 
-    2.- []()
+    2.- [Revisar que las fotos y archivos guardados coincidan con la base de datos](https://github.com/oatbrend/PRACTICA2-DB/issues/15)
 
-    3.- []()
+    3.- [Guardar la ubicación real de las obras y comprobar que las fotos se tomaron ahí](https://github.com/oatbrend/PRACTICA2-DB/issues/16)
 
 + **Flores Olivares Omar**
 
@@ -35,6 +35,6 @@ Almacén dimensional para el monitoreo geoespacial de obra pública.
     3.- [Proteger los datos personales y llevar un registro de quién entra al sistema](https://github.com/oatbrend/PRACTICA2-DB/issues/13)
     
 ## Uso de IA's Generativas
-+ **NotebookLM** para estudiar a fondo los artículos
-+ **Claude** para confirmar las cardinalidades de los modelos del proyecto propio.
-+ **Gemini** como guía para el levantamiento del proyecto asignado y para ayudarnos a comprender el esquema DDL del proyecto asignado.
++ **NotebookLM** Para estudiar a fondo los artículos
++ **Claude** Para confirmar las cardinalidades de los modelos del proyecto propio. Aportar herramientas mas completas para las ideas de nuestras propuestas.
++ **Gemini** Como guía para el levantamiento del proyecto asignado y para ayudarnos a comprender el esquema DDL del proyecto asignado.
